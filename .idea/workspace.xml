@@ -19,32 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8199279-810b-4681-874e-9840fe7ecada" name="Default Changelist" comment="2nd part commit">
+    <list default="true" id="e8199279-810b-4681-874e-9840fe7ecada" name="Default Changelist" comment="finish commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Dosis.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Roboto.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/Roboto_Condensed.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/arcive.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/onlinefontconverter.com.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/config.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick-theme.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick-theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/slick-slider/slick/slick.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/fonts.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/fonts.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +57,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/MobileFirst-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -87,6 +70,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Вика\WebstormProjects\Mobile first" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Вика\WebstormProjects\Mobile first" />
       <recent name="C:\Users\Вика\WebstormProjects\Mobile first\assets" />
@@ -109,7 +95,9 @@
       <workItem from="1602356079781" duration="5649000" />
       <workItem from="1602400982579" duration="8887000" />
       <workItem from="1602410243887" duration="174000" />
-      <workItem from="1602410467285" duration="298000" />
+      <workItem from="1602410467285" duration="719000" />
+      <workItem from="1602422182307" duration="32000" />
+      <workItem from="1602487108315" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="2nd part commit">
       <created>1602409558881</created>
@@ -125,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602409775038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish commit">
+      <created>1602410953263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602410953263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +140,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2nd part commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd part commit" />
+    <MESSAGE value="finish commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="293" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602254304018">
@@ -176,10 +172,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602251507600" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602409777290">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602410957136">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602409777290" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602410957136" />
     <state x="405" y="109" width="888" height="721" key="dock-window-1" timestamp="1602327112959">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
